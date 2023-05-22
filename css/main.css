@@ -76,7 +76,6 @@ body {
     justify-content: flex-end;
     padding: 33px;
     padding-left: 32px;
-    background-color: aqua;
 }
 .grid-item:nth-child(1) {
     background-image:  linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 0%, rgba(0, 0, 0, 0.841672) 100%) , url(../images/hero/firs.png);
